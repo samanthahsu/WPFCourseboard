@@ -5,11 +5,11 @@ VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Courseboard.Tests", "Courseboard.Tests\Courseboard.Tests.csproj", "{32513894-D4EB-467D-A32C-610B92E4288B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Courseboard.Data", "Data\Courseboard.Data.csproj", "{4C2D9879-19EF-4875-A324-C38CF0DBBEA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Courseboard.Data", "Courseboard.Data\Courseboard.Data.csproj", "{4C2D9879-19EF-4875-A324-C38CF0DBBEA6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Courseboard.Service", "Service\Courseboard.Service.csproj", "{B1DD4337-91B8-4B4F-B589-63355AB3B6AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Courseboard.Service", "Courseboard.Service\Courseboard.Service.csproj", "{B1DD4337-91B8-4B4F-B589-63355AB3B6AC}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CourseBoard", "WpfApp1\CourseBoard.csproj", "{E572BA93-D061-48FF-8C4D-7C3EC00CE7B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CourseBoard", "CourseBoard\CourseBoard.csproj", "{E572BA93-D061-48FF-8C4D-7C3EC00CE7B8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
